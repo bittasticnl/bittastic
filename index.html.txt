@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>BiTtastic</h1>
+<p>BiTtastic.nl</p>
+</body>
+</html>
